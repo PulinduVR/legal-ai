@@ -38,7 +38,7 @@ This guide provides the basic steps to run the backend on your local Windows mac
 
 3.  **Install Dependencies:**
     ```cmd
-    pip install -r requirements3.txt
+    pip install -r requirements.txt
     ```
 
 4.  **Environment Variables:**
